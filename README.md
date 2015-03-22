@@ -28,7 +28,7 @@ The following operations are performed on both the test and training data sets.
 
 ### 4. Merges the test and training data sets into merged.df
 
-### 5. Aggregates and sorts each column by subject and activity. 
+### 5. Aggregates and sorts each column by subject and activity 
 * The result is a data frame named tidy.df that contains one row for each subject and activity (180 rows in total).
 * Each row contains the mean of all the observations for a particular subject and activity. (6 rows for each subject).
 * The rows are sorted by subject and then by activity.
